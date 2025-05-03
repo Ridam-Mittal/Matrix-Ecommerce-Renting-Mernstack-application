@@ -6,12 +6,24 @@ This platform not only caters to individual users by offering a seamless shoppin
 
 ---
 
+## Preview
+
+### 🏠 Homepage
+
+![Homepage](./assets/homepage.png)
+
+### 🛒 Cart Page
+
+![Cart Page](./assets/cart.png)
+
+---
+
 ## Technology Stack
 
-* **Frontend:** React.js, Tailwind CSS, React Redux
+* **Frontend:** React.js, Tailwind CSS
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB (Mongoose)
-* **Authentication:** JWT, Bcrypt (for hashing passwords)
+* **Authentication:** JWT
 
 ---
 
@@ -40,4 +52,3 @@ This platform not only caters to individual users by offering a seamless shoppin
    ```
 
 ---
-
