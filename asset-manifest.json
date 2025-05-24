@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Matrix-Ecommerce-Renting-Mernstack-application/static/css/main.f915fcbc.css",
-    "main.js": "/Matrix-Ecommerce-Renting-Mernstack-application/static/js/main.36be52cd.js",
+    "main.js": "/Matrix-Ecommerce-Renting-Mernstack-application/static/js/main.50a49f93.js",
     "static/js/488.8fe59974.chunk.js": "/Matrix-Ecommerce-Renting-Mernstack-application/static/js/488.8fe59974.chunk.js",
     "index.html": "/Matrix-Ecommerce-Renting-Mernstack-application/index.html",
     "main.f915fcbc.css.map": "/Matrix-Ecommerce-Renting-Mernstack-application/static/css/main.f915fcbc.css.map",
-    "main.36be52cd.js.map": "/Matrix-Ecommerce-Renting-Mernstack-application/static/js/main.36be52cd.js.map",
+    "main.50a49f93.js.map": "/Matrix-Ecommerce-Renting-Mernstack-application/static/js/main.50a49f93.js.map",
     "488.8fe59974.chunk.js.map": "/Matrix-Ecommerce-Renting-Mernstack-application/static/js/488.8fe59974.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f915fcbc.css",
-    "static/js/main.36be52cd.js"
+    "static/js/main.50a49f93.js"
   ]
 }
