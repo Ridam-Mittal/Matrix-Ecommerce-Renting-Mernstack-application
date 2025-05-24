@@ -125,7 +125,7 @@ const HomePage = () => {
 
 
         <img
-          src="/images/dev1.jpg"
+          src={process.env.PUBLIC_URL + "/images/dev1.jpg"}
           className="banner-img"
           alt="bannerimage"
           style={{ width: "70%", marginLeft: "0", borderBottom: "2px solid black" }}
@@ -247,7 +247,7 @@ const HomePage = () => {
       width: "100%"
     }}
   >
-    <source src="/images/vid.mp4" type="video/mp4" />
+    <source src={process.env.PUBLIC_URL + "/images/vid.mp4"} type="video/mp4" />
   </video>
   <div
     style={{
